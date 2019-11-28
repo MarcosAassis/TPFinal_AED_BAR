@@ -1,4 +1,11 @@
-﻿using Syncfusion.Windows.Forms;
+﻿/*Alunos:
+ * Amanda Brasil
+ * Fabio Alves
+ * Isabela Meira
+ * Marcos Assis
+ */
+
+using Syncfusion.Windows.Forms;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
